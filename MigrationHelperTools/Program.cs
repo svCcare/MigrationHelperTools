@@ -8,7 +8,7 @@ namespace MigrationHelperTools
         [STAThread]
         static void Main(string[] args)
         {
-            Clipboard.SetDataObject(DateTime.Now.ToString("yyyyMMddHHmm"), true, 2, 20);
+            Clipboard.SetDataObject(DateTime.Now.ToString("yyyyMMddHHmm"), true, 3, 20);
         }
     }
 }
