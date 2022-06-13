@@ -3,7 +3,7 @@
 Put Migro.zip file into ItemTemplates folder. It can be found by typing `/ItemTemplates` into the Windows Run field
 
 # Migration Template Usage
-Right click in solution in location where you want to create new migration
+Right click on solution explorer in location where you want to create new migration
 Add... -> New Item... -> Look for `Migro` -> Create and adjust file to your standards
 
 # Migration Timestamp Instalation
