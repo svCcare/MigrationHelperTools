@@ -13,6 +13,9 @@ In VS navigate to Tools -> External Tools...
 Add new Tool
 In `Command` field, select created .exe file
 
+![image](https://user-images.githubusercontent.com/27490969/173327451-27e82bce-a875-4116-8cbb-887e8c48c6a0.png)
+
+
 # Migration Timestamp Generator Usage
 Tools -> Select `However you called newly created Tool` -> Now you have Timestamp in your clipboard
 
