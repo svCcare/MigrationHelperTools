@@ -1,7 +1,7 @@
 # Migration Template Instalation
 
-Put .zip file into 
-C:\Users\..\Documents\Visual Studio 2022\Templates\ItemTemplates
+Put .zip file into ItemTemplates folder
+Type `/ItemTemplates` in Windows Run field
 
 # Migration Template Usage
 Right click in solution in location where you want to create new migration
